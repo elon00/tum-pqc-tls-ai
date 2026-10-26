@@ -1,0 +1,9 @@
+[package]
+name = "tum-pqc-tls-ai"
+version = "1.0.0"
+edition = "2021"
+authors = ["Martin Luther <martinlutherupa1@gmail.com>"]
+description = "Post-quantum hybrid TLS handshake and attestation enclave"
+license = "MIT"
+
+[dependencies]
